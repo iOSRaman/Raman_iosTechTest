@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "E5ED28F1-30F9-4FB7-8909-3830C150ECA6"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0D3EBCE4-E7AD-49E7-8F29-3EC61DAEAF62"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Raman_iOSTechTest/Controller/DataListVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "getData(url:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "11301A75-B2EE-4EE7-B4B5-8432FFB8C1F1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Raman_iOSTechTest/Controller/DataListVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
+            landmarkName = "getData(url:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "11301A75-B2EE-4EE7-B4B5-8432FFB8C1F1 - 2ed6100f1888efa2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Raman_iOSTechTest.DataListVC.getData(url: Swift.String) -&gt; ()"
+                  moduleName = "Raman_iOSTechTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gt63/Documents/Raman/Raman_iOSTechTest/Raman_iOSTechTest/Controller/DataListVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "236">
+               </Location>
+               <Location
+                  uuid = "11301A75-B2EE-4EE7-B4B5-8432FFB8C1F1 - 8b4e493050874835"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in Raman_iOSTechTest.DataListVC.getData(url: Swift.String) -&gt; ()"
+                  moduleName = "Raman_iOSTechTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gt63/Documents/Raman/Raman_iOSTechTest/Raman_iOSTechTest/Controller/DataListVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "11301A75-B2EE-4EE7-B4B5-8432FFB8C1F1 - 2ed6100f1888efa2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Raman_iOSTechTest.DataListVC.getData(url: Swift.String) -&gt; ()"
+                  moduleName = "Raman_iOSTechTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gt63/Documents/Raman/Raman_iOSTechTest/Raman_iOSTechTest/Controller/DataListVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  uuid = "11301A75-B2EE-4EE7-B4B5-8432FFB8C1F1 - 2ed6100f1888efa2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Raman_iOSTechTest.DataListVC.getData(url: Swift.String) -&gt; ()"
+                  moduleName = "Raman_iOSTechTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gt63/Documents/Raman/Raman_iOSTechTest/Raman_iOSTechTest/Controller/DataListVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "113">
+               </Location>
+               <Location
+                  uuid = "11301A75-B2EE-4EE7-B4B5-8432FFB8C1F1 - 6e31e194a4079f53"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;Raman_iOSTechTest.DataListStruct&gt;, Swift.Bool) -&gt; () in Raman_iOSTechTest.DataListVC.getData(url: Swift.String) -&gt; ()"
+                  moduleName = "Raman_iOSTechTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gt63/Documents/Raman/Raman_iOSTechTest/Raman_iOSTechTest/Controller/DataListVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "213">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8726FE86-C25B-44D8-AD03-B4CC945ABF15"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Raman_iOSTechTest/Controller/DetailsVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "67"
+            endingLineNumber = "67"
+            landmarkName = "getDetails()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "97F51480-B976-488A-9F4B-9D69AE7AD381"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Raman_iOSTechTest/Controller/DetailsVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "84"
+            endingLineNumber = "84"
+            landmarkName = "getDetails()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "97F51480-B976-488A-9F4B-9D69AE7AD381 - 88e9175cd1c86305"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Raman_iOSTechTest.DetailsDataStruct, Swift.Bool) -&gt; () in Raman_iOSTechTest.DetailsVC.getDetails() -&gt; ()"
+                  moduleName = "Raman_iOSTechTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gt63/Documents/Raman/Raman_iOSTechTest/Raman_iOSTechTest/Controller/DetailsVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "90"
+                  endingLineNumber = "90"
+                  offsetFromSymbolStart = "14896">
+               </Location>
+               <Location
+                  uuid = "97F51480-B976-488A-9F4B-9D69AE7AD381 - 88e9175cd1c863df"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Raman_iOSTechTest.DetailsDataStruct, Swift.Bool) -&gt; () in Raman_iOSTechTest.DetailsVC.getDetails() -&gt; ()"
+                  moduleName = "Raman_iOSTechTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gt63/Documents/Raman/Raman_iOSTechTest/Raman_iOSTechTest/Controller/DetailsVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "84"
+                  endingLineNumber = "84"
+                  offsetFromSymbolStart = "14896">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "78959A0F-563C-4312-ADC1-B01D5726B980"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Raman_iOSTechTest/Controller/DetailsVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "71"
+            endingLineNumber = "71"
+            landmarkName = "getDetails()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9812A651-B5DD-4D81-801E-0B5E44654AB3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Raman_iOSTechTest/Controller/DetailsVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "74"
+            endingLineNumber = "74"
+            landmarkName = "getDetails()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "01087BF7-A3D9-49A0-AADE-AF25A7609240"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Raman_iOSTechTest/Controller/DetailsVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "addPropertyLbl()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "01087BF7-A3D9-49A0-AADE-AF25A7609240 - 2348381b99e1f8dd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Raman_iOSTechTest.DetailsVC.addPropertyLbl() -&gt; ()"
+                  moduleName = "Raman_iOSTechTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gt63/Documents/Raman/Raman_iOSTechTest/Raman_iOSTechTest/Controller/DetailsVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "164">
+               </Location>
+               <Location
+                  uuid = "01087BF7-A3D9-49A0-AADE-AF25A7609240 - 2348381b99e1f797"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Raman_iOSTechTest.DetailsVC.addPropertyLbl() -&gt; ()"
+                  moduleName = "Raman_iOSTechTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gt63/Documents/Raman/Raman_iOSTechTest/Raman_iOSTechTest/Controller/DetailsVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "164">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2E71A5E1-51D2-4DB2-94C5-A86312F533C7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Raman_iOSTechTest/Controller/DetailsVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "70"
+            endingLineNumber = "70"
+            landmarkName = "getDetails()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2E71A5E1-51D2-4DB2-94C5-A86312F533C7 - 88e9175cd1c864d7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Raman_iOSTechTest.DetailsDataStruct, Swift.Bool) -&gt; () in Raman_iOSTechTest.DetailsVC.getDetails() -&gt; ()"
+                  moduleName = "Raman_iOSTechTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gt63/Documents/Raman/Raman_iOSTechTest/Raman_iOSTechTest/Controller/DetailsVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "492">
+               </Location>
+               <Location
+                  uuid = "2E71A5E1-51D2-4DB2-94C5-A86312F533C7 - 88e9175cd1c865e9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Raman_iOSTechTest.DetailsDataStruct, Swift.Bool) -&gt; () in Raman_iOSTechTest.DetailsVC.getDetails() -&gt; ()"
+                  moduleName = "Raman_iOSTechTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gt63/Documents/Raman/Raman_iOSTechTest/Raman_iOSTechTest/Controller/DetailsVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "492">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "97A77C7F-8F18-4A4B-93BF-0012D251DD13"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Raman_iOSTechTest/Controller/DataListVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
